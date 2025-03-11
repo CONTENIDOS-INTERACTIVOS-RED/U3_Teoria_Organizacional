@@ -103,10 +103,10 @@
       .p-4.p-md-5
         SlyderA(tipo="b").bg-white
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5
+            .col-lg-5.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema1/9.png")
-            .col-lg-7.mb-3.mb-lg-0
+            .col-lg-7
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -126,10 +126,10 @@
                   p.mb-0 Hay poca flexibilidad y autonomía para los empleados.
     
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5
+            .col-lg-5.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema1/10.png")
-            .col-lg-7.mb-3.mb-lg-0
+            .col-lg-7
               h5 Ventajas
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -142,10 +142,10 @@
                   i.far.fa-arrow-alt-circle-right.bg-color-8
                   p.mb-0 Se establecen responsabilidades claras dentro de la organización.
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5
+            .col-lg-5.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema1/11.png")
-            .col-lg-7.mb-3.mb-lg-0
+            .col-lg-7
               h5 Ejemplo de aplicación
               p Este modelo es común en instituciones gubernamentales, ejércitos, entidades bancarias, hospitales tradicionales y pequeñas empresas familiares, donde es necesario un alto grado de control y supervisión en las operaciones.
     
@@ -290,10 +290,10 @@
       .p-4.p-md-5
         SlyderA(tipo="b").bg-white
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5
+            .col-lg-5.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema1/19.png")
-            .col-lg-7.mb-3.mb-lg-0
+            .col-lg-7
               h5 Características
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -313,10 +313,10 @@
                   p.mb-0 Requiere una cultura organizacional basada en la confianza y el liderazgo compartido.
     
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5
+            .col-lg-5.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema1/20.png")
-            .col-lg-7.mb-3.mb-lg-0
+            .col-lg-7
               h5 Ventajas
               ul.lista-ul--color
                 li.mb-0.d-flex
@@ -329,10 +329,10 @@
                   i.far.fa-arrow-alt-circle-right.bg-color-8
                   p.mb-0 Permite una rápida respuesta a los cambios del mercado.
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5
+            .col-lg-5.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema1/21.png")
-            .col-lg-7.mb-3.mb-lg-0
+            .col-lg-7
               h5 Ejemplo de aplicación
               p Utilizada en empresas de tecnología, consultoras de negocios, agencias de publicidad, despachos de arquitectura e ingeniería y organizaciones de investigación y desarrollo, donde se manejan múltiples proyectos al mismo tiempo.
     

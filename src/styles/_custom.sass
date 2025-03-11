@@ -38,6 +38,8 @@
     background-color: #103D47
   &-11
     background-color: #ECE6DD
+  &-12
+    background-color: #FFE1B9
   &-info
     background-color: #E8EEFD
   &-sintesis
@@ -115,6 +117,25 @@
     background-color: #FFEBD0
     z-index: 0
   .col-lg-3, .col-lg-9, .row,
+    z-index: 1
+  @media screen and (max-width: $bp-max-md)
+    padding: 1rem
+  
+    &::after
+      height: 100%
+.bg-h85-5
+  position: relative
+  &::after
+    content: ''
+    position: absolute
+    bottom: -8%
+    left: 0
+    width: 100%
+    height: 92%
+    transform: translateY(-9%)
+    background-color: #FFF4E6
+    z-index: 0
+  .col-lg-5, .col-lg-6, .row,
     z-index: 1
   @media screen and (max-width: $bp-max-md)
     padding: 1rem
